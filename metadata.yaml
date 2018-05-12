@@ -1,9 +1,13 @@
 _repo: Attila-Historiallinen-romaani-kansainvaelluksen-ajoilta_49040
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Petrelius, K. A.
     gutenberg_agent_id: '44350'
     url: http://www.gutenberg.org/2009/agents/44350
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dahn, Felix
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31889
     wikipedia: http://en.wikipedia.org/wiki/Felix_Dahn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49040#Attila-Historiallinen-romaani-kansainvaelluksen-ajoilta
 gutenberg_issued: '2015-05-24'
 gutenberg_type: Text
 identifiers:
